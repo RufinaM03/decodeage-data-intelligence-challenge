@@ -138,8 +138,8 @@ Important flags:
 | Playwright | Optional rendering fallback for permitted sparse JavaScript application shells. It was enabled but not invoked in the documented final run because no page met the eligibility conditions. | Enabled, not invoked |
 | `difflib.SequenceMatcher` | Similar-name candidate flagging only; it does not auto-merge companies | Yes |
 | `unittest` | Automated test runner | Yes |
-| Git and GitHub | Not used by the runtime pipeline; this local folder was not a Git repository during the audit | No |
-| Codex | Assisted with repository implementation, tests and documentation | Outside runtime |
+| Git and GitHub | Version control and private repository delivery for the submission | Yes — development and submission |
+| Codex | Partially assisted with repository implementation, tests and documentation | Outside runtime |
 | Manual browser/source verification | Human review of official sources and ambiguous classifications | Yes |
 
 No external AI or LLM API is used to collect, extract, score or qualify leads at runtime.
@@ -154,7 +154,7 @@ Scoring applies hard gates beyond the numeric score: a qualified lead must fit t
 
 ## AI Usage And My Role
 
-Codex assisted with repository implementation, tests and documentation. The runtime pipeline itself does not call an AI model or LLM API. Final source verification and ambiguous business classifications were manually reviewed.
+Codex partially assisted with repository implementation, tests and documentation. The runtime pipeline itself does not call an AI model or LLM API. Final source verification and ambiguous business classifications were manually reviewed.
 
 My main contribution was converting the PDF requirements into clear, testable rules for the pipeline. I treated the brief as a checklist and made sure the implementation followed its constraints: public sources only, no login or paywall bypassing, no CAPTCHA solving, no personal contact collection, source URLs and evidence snippets retained for every extracted fact, missing information preserved as `unknown` or `not_available`, and raw collection records kept separate from final lead outputs.
 
