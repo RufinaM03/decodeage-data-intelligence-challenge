@@ -1,0 +1,91 @@
+seed_id,url,status,response_code,redirect_url,collected_at,error,collection_method,fallback_reason,visible_text_length,application_shell_detected
+SEED-01,https://oziva.in,fetched,200,,2026-07-11T06:03:48+00:00,,urllib_beautifulsoup,not_required,1218,false
+SEED-01,https://oziva.in/about,failed,404,,2026-07-11T06:03:49+00:00,HTTP Error 404: Not Found,urllib_beautifulsoup,ineligible_http_status,1214,false
+SEED-01,https://oziva.in/about-us,failed,404,,2026-07-11T06:03:51+00:00,HTTP Error 404: Not Found,urllib_beautifulsoup,ineligible_http_status,1214,false
+SEED-01,https://oziva.in/products,fetched,200,,2026-07-11T06:03:54+00:00,,urllib_beautifulsoup,not_required,4864,false
+SEED-01,https://oziva.in/collections/999-offer,fetched,200,,2026-07-11T06:03:55+00:00,,urllib_beautifulsoup,not_required,1662,false
+SEED-02,https://mamaearth.in,fetched,200,,2026-07-11T06:04:01+00:00,,urllib_beautifulsoup,not_required,1296,false
+SEED-02,https://mamaearth.in/product-category/skin,fetched,200,,2026-07-11T06:04:02+00:00,,urllib_beautifulsoup,not_required,19620,false
+SEED-02,https://mamaearth.in/product/aloe-vera-oil-free-face-moisturizer-with-aloe-vera-ashwagandha-for-a-youthful-glow-80-g,fetched,200,,2026-07-11T06:04:03+00:00,,urllib_beautifulsoup,not_required,1848,false
+SEED-02,https://mamaearth.in/product-category/face-moisturizer,fetched,200,,2026-07-11T06:04:04+00:00,,urllib_beautifulsoup,not_required,14501,false
+SEED-02,https://mamaearth.in/product/honey-malai-oil-free-face-moisturizer-with-honey-malai-for-nourishing-glow-80-g,fetched,200,,2026-07-11T06:04:06+00:00,,urllib_beautifulsoup,not_required,1879,false
+SEED-03,https://omniactives.com,fetched,200,,2026-07-11T06:04:11+00:00,,urllib_beautifulsoup,not_required,3641,false
+SEED-03,https://omniactives.com/product-category/bone-joint-muscle-health,fetched,200,,2026-07-11T06:04:13+00:00,,urllib_beautifulsoup,not_required,2652,false
+SEED-03,https://omniactives.com/product-category/cognitive-health-mental-performance,fetched,200,,2026-07-11T06:04:14+00:00,,urllib_beautifulsoup,not_required,2361,false
+SEED-03,https://omniactives.com/product-category/eye-health-vision-performance,fetched,200,,2026-07-11T06:04:16+00:00,,urllib_beautifulsoup,not_required,2705,false
+SEED-03,https://omniactives.com/about,failed,404,,2026-07-11T06:04:18+00:00,HTTP Error 404: Not Found,urllib_beautifulsoup,ineligible_http_status,2193,false
+SEED-04,https://wellbeingnutrition.com,fetched,200,,2026-07-11T06:04:22+00:00,,urllib_beautifulsoup,not_required,10387,false
+SEED-04,https://wellbeingnutrition.com/collections/shop-all-1,fetched,200,,2026-07-11T06:04:24+00:00,,urllib_beautifulsoup,not_required,12052,false
+SEED-04,https://wellbeingnutrition.com/collections/healthy-skin-supplements,fetched,200,,2026-07-11T06:04:26+00:00,,urllib_beautifulsoup,not_required,27781,false
+SEED-04,https://wellbeingnutrition.com/collections/sports-and-performance-supplements,fetched,200,,2026-07-11T06:04:28+00:00,,urllib_beautifulsoup,not_required,29947,false
+SEED-04,https://wellbeingnutrition.com/about,failed,404,,2026-07-11T06:04:30+00:00,HTTP Error 404: Not Found,urllib_beautifulsoup,ineligible_http_status,4327,false
+SEED-05,https://mcaffeine.com,fetched,200,,2026-07-11T06:04:37+00:00,,urllib_beautifulsoup,not_required,31825,false
+SEED-05,https://mcaffeine.com/collections/special-offer,fetched,200,,2026-07-11T06:04:42+00:00,,urllib_beautifulsoup,not_required,17908,false
+SEED-05,https://mcaffeine.com/products/naked-raw-coffee-body-scrub-with-coconut,fetched,200,,2026-07-11T06:04:46+00:00,,urllib_beautifulsoup,not_required,24969,false
+SEED-05,https://mcaffeine.com/products/sweet-escape-perfume-body-lotion,fetched,200,,2026-07-11T06:04:50+00:00,,urllib_beautifulsoup,not_required,20947,false
+SEED-05,https://mcaffeine.com/products/summer-breeze-perfume-body-lotion,fetched,200,,2026-07-11T06:04:54+00:00,,urllib_beautifulsoup,not_required,20849,false
+SEED-06,https://honasa.in,fetched,200,,2026-07-11T06:05:02+00:00,,urllib_beautifulsoup,not_required,3856,false
+SEED-06,https://honasa.in/pages/our-story,fetched,200,,2026-07-11T06:05:04+00:00,,urllib_beautifulsoup,not_required,1525,false
+SEED-06,https://honasa.in/pages/know-our-brands,fetched,200,,2026-07-11T06:05:05+00:00,,urllib_beautifulsoup,not_required,4146,false
+SEED-06,https://honasa.in/blogs/news-and-events,fetched,200,,2026-07-11T06:05:07+00:00,,urllib_beautifulsoup,not_required,7104,false
+SEED-06,https://honasa.in/about,failed,404,,2026-07-11T06:05:08+00:00,HTTP Error 404: Not Found,urllib_beautifulsoup,ineligible_http_status,1203,false
+SEED-07,https://sugarcosmetics.com,fetched,200,,2026-07-11T06:05:14+00:00,,urllib_beautifulsoup,not_required,12030,false
+SEED-07,https://sugarcosmetics.com/collections/transferproof-lipsticks,fetched,200,,2026-07-11T06:05:17+00:00,,urllib_beautifulsoup,not_required,6020,false
+SEED-07,https://sugarcosmetics.com/collections/matte-lipsticks,fetched,200,,2026-07-11T06:05:20+00:00,,urllib_beautifulsoup,not_required,7052,false
+SEED-07,https://sugarcosmetics.com/collections/liquid-lipsticks,fetched,200,,2026-07-11T06:05:22+00:00,,urllib_beautifulsoup,not_required,3994,false
+SEED-07,https://sugarcosmetics.com/about,failed,404,,2026-07-11T06:05:23+00:00,HTTP Error 404: Not Found,urllib_beautifulsoup,ineligible_http_status,2011,false
+SEED-08,https://plixlife.com,fetched,200,,2026-07-11T06:05:30+00:00,,urllib_beautifulsoup,not_required,6963,false
+SEED-08,https://plixlife.com/product/super-strength-fermented-yeast-protein/1616,fetched,200,,2026-07-11T06:05:31+00:00,,urllib_beautifulsoup,not_required,9783,false
+SEED-08,https://plixlife.com/page/shop,fetched,200,,2026-07-11T06:05:34+00:00,,urllib_beautifulsoup,not_required,7273,false
+SEED-08,https://plixlife.com/product/gua-sha-stone/520,fetched,200,,2026-07-11T06:05:35+00:00,,urllib_beautifulsoup,not_required,8615,false
+SEED-08,https://plixlife.com/product/sustainable-mug/580,fetched,200,,2026-07-11T06:05:37+00:00,,urllib_beautifulsoup,not_required,6356,false
+SEED-09,https://huel.com,fetched,200,,2026-07-11T06:05:42+00:00,,urllib_beautifulsoup,not_required,9480,false
+SEED-09,https://huel.com/collections/other-huel-products,fetched,200,,2026-07-11T06:05:44+00:00,,urllib_beautifulsoup,not_required,9577,false
+SEED-09,https://huel.com/pages/contact-us,fetched,200,,2026-07-11T06:05:45+00:00,,urllib_beautifulsoup,not_required,6716,false
+SEED-09,https://huel.com/collections/huel-outlet,fetched,200,,2026-07-11T06:05:47+00:00,,urllib_beautifulsoup,not_required,5928,false
+SEED-09,https://huel.com/about,failed,404,,2026-07-11T06:05:47+00:00,HTTP Error 404: Not Found,urllib_beautifulsoup,ineligible_http_status,13,false
+SEED-10,https://thewholetruthfoods.com,fetched,200,,2026-07-11T06:05:53+00:00,,urllib_beautifulsoup,not_required,4323,false
+SEED-10,https://thewholetruthfoods.com/pages/our-story,fetched,200,,2026-07-11T06:05:54+00:00,,urllib_beautifulsoup,not_required,2709,false
+SEED-10,https://thewholetruthfoods.com/pages/contact-us,fetched,200,,2026-07-11T06:05:55+00:00,,urllib_beautifulsoup,not_required,2849,false
+SEED-10,https://thewholetruthfoods.com/products/hazelnut-millet-protein-bars-box-of-8,fetched,200,,2026-07-11T06:05:57+00:00,,urllib_beautifulsoup,not_required,980,false
+SEED-10,https://thewholetruthfoods.com/products/no-added-sugar-5-grain-muesli-350g-2,fetched,200,,2026-07-11T06:05:58+00:00,,urllib_beautifulsoup,not_required,971,false
+SEED-11,https://mcaffeine.in,access_restricted,200,https://mcaffeine.in/password,2026-07-11T06:06:03+00:00,Page visible text appears to contain an access restriction.,urllib_beautifulsoup,ineligible_access_restriction,296,false
+SEED-11,https://mcaffeine.in/about,access_restricted,200,https://mcaffeine.in/password,2026-07-11T06:06:04+00:00,Page visible text appears to contain an access restriction.,urllib_beautifulsoup,ineligible_access_restriction,296,false
+SEED-11,https://mcaffeine.in/about-us,access_restricted,200,https://mcaffeine.in/password,2026-07-11T06:06:06+00:00,Page visible text appears to contain an access restriction.,urllib_beautifulsoup,ineligible_access_restriction,296,false
+SEED-11,https://mcaffeine.in/products,access_restricted,200,https://mcaffeine.in/password,2026-07-11T06:06:07+00:00,Page visible text appears to contain an access restriction.,urllib_beautifulsoup,ineligible_access_restriction,296,false
+SEED-11,https://mcaffeine.in/collections,access_restricted,200,https://mcaffeine.in/password,2026-07-11T06:06:09+00:00,Page visible text appears to contain an access restriction.,urllib_beautifulsoup,ineligible_access_restriction,296,false
+SEED-12,https://traya.health,fetched,200,,2026-07-11T06:06:13+00:00,,urllib_beautifulsoup,not_required,9956,false
+SEED-12,https://traya.health/blogs/all,fetched,200,,2026-07-11T06:06:14+00:00,,urllib_beautifulsoup,not_required,6075,false
+SEED-12,https://traya.health/collections/all,fetched,200,,2026-07-11T06:06:16+00:00,,urllib_beautifulsoup,not_required,17205,false
+SEED-12,https://traya.health/pages/about-us,fetched,200,,2026-07-11T06:06:18+00:00,,urllib_beautifulsoup,not_required,9934,false
+SEED-12,https://traya.health/products/hair-ras-ayurvedic-hair-herbs-live,fetched,200,,2026-07-11T06:06:19+00:00,,urllib_beautifulsoup,not_required,13334,false
+SEED-13,https://cosmix.in,fetched,200,,2026-07-11T06:06:25+00:00,,urllib_beautifulsoup,not_required,23246,false
+SEED-13,https://cosmix.in/collections/fermented-yeast-protein,fetched,200,,2026-07-11T06:06:27+00:00,,urllib_beautifulsoup,not_required,15237,false
+SEED-13,https://cosmix.in/collections/no-nonsense-plant-protein,fetched,200,,2026-07-11T06:06:29+00:00,,urllib_beautifulsoup,not_required,16305,false
+SEED-13,https://cosmix.in/collections/no-nonsense-plant-protein-pro,fetched,200,,2026-07-11T06:06:31+00:00,,urllib_beautifulsoup,not_required,15196,false
+SEED-13,https://cosmix.in/collections/protein-bar,fetched,200,,2026-07-11T06:06:33+00:00,,urllib_beautifulsoup,not_required,13857,false
+SEED-14,https://manmatters.com,fetched,200,,2026-07-11T06:06:39+00:00,,urllib_beautifulsoup,not_required,3720,false
+SEED-14,https://manmatters.com/shop/hair/Hair%20Regrowth,fetched,200,,2026-07-11T06:06:40+00:00,,urllib_beautifulsoup,not_required,1026,false
+SEED-14,https://manmatters.com/shop/beard,fetched,200,,2026-07-11T06:06:42+00:00,,urllib_beautifulsoup,not_required,1063,false
+SEED-14,https://manmatters.com/shop/nutrition,fetched,200,,2026-07-11T06:06:43+00:00,,urllib_beautifulsoup,not_required,1608,false
+SEED-14,https://manmatters.com/shop/offer-zone,fetched,200,,2026-07-11T06:06:45+00:00,,urllib_beautifulsoup,not_required,1409,false
+SEED-15,https://healthkart.com,fetched,200,,2026-07-11T06:06:52+00:00,,urllib_beautifulsoup,not_required,32060,false
+SEED-15,https://healthkart.com/hk/ContactUs.action,fetched,200,,2026-07-11T06:06:53+00:00,,urllib_beautifulsoup,not_required,2546,false
+SEED-15,https://healthkart.com/stores/All-Cities,fetched,200,,2026-07-11T06:06:55+00:00,,urllib_beautifulsoup,not_required,2546,false
+SEED-15,https://healthkart.com/hk/AboutUs.action,fetched,200,,2026-07-11T06:06:57+00:00,,urllib_beautifulsoup,not_required,2546,false
+SEED-15,https://healthkart.com/top-brands-list,fetched,200,,2026-07-11T06:06:59+00:00,,urllib_beautifulsoup,not_required,2546,false
+SEED-16,https://plumgoodness.com,fetched,200,,2026-07-11T06:07:04+00:00,,urllib_beautifulsoup,not_required,21591,false
+SEED-16,https://plumgoodness.com/collections/all-in-stock,fetched,200,,2026-07-11T06:07:06+00:00,,urllib_beautifulsoup,not_required,9228,false
+SEED-16,https://plumgoodness.com/collections/plum-best-offers,fetched,200,,2026-07-11T06:07:07+00:00,,urllib_beautifulsoup,not_required,10293,false
+SEED-16,https://plumgoodness.com/pages/shop-all,fetched,200,https://plumgoodness.com/,2026-07-11T06:07:10+00:00,,urllib_beautifulsoup,not_required,21591,false
+SEED-16,https://plumgoodness.com/collections/face-wash,fetched,200,,2026-07-11T06:07:12+00:00,,urllib_beautifulsoup,not_required,26000,false
+SEED-17,https://buywow.in,fetched,200,,2026-07-11T06:07:25+00:00,,urllib_beautifulsoup,not_required,302,false
+SEED-17,https://buywow.in/blog,fetched,200,,2026-07-11T06:07:27+00:00,,urllib_beautifulsoup,not_required,7708,false
+SEED-17,https://buywow.in/blog/wow-science-what-most-people-miss-about-skincare,fetched,200,,2026-07-11T06:07:31+00:00,,urllib_beautifulsoup,not_required,14839,false
+SEED-17,https://buywow.in/blog/wow-science-what-most-people-miss-about-skincare-ingredients,fetched,200,,2026-07-11T06:07:34+00:00,,urllib_beautifulsoup,not_required,15826,false
+SEED-17,https://buywow.in/products/immunity-booster,fetched,200,,2026-07-11T06:07:36+00:00,,urllib_beautifulsoup,not_required,148,false
+SEED-18,https://kapiva.in,fetched,200,,2026-07-11T06:07:40+00:00,,urllib_beautifulsoup,not_required,1237,false
+SEED-18,https://kapiva.in/shop-all,fetched,200,,2026-07-11T06:07:44+00:00,,urllib_beautifulsoup,not_required,4913,false
+SEED-18,https://kapiva.in/product,fetched,200,,2026-07-11T06:07:49+00:00,,urllib_beautifulsoup,not_required,4797,false
+SEED-18,https://kapiva.in/product/juices,fetched,200,,2026-07-11T06:07:54+00:00,,urllib_beautifulsoup,not_required,4965,false
+SEED-18,https://kapiva.in/product/capsules,fetched,200,,2026-07-11T06:07:57+00:00,,urllib_beautifulsoup,not_required,3774,false
